@@ -51,3 +51,7 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+# Blanket JetBrains ignore
+.idea/*
+*.imi
+
