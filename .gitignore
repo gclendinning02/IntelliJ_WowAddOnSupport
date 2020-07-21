@@ -53,5 +53,5 @@ fabric.properties
 
 # Blanket JetBrains ignore
 .idea/*
-*.imi
+*.iml
 
